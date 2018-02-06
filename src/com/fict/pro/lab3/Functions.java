@@ -1,8 +1,5 @@
 package com.fict.pro.lab3;
 
-/**
- * Created by WORK on 06.10.2014.
- */
 public class Functions extends Data {
 
     public int[] firstFunc(int[] B, int[][] MB, int[][] MC) {
