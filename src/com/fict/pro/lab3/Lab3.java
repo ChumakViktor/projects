@@ -5,9 +5,8 @@ package com.fict.pro.lab3;
  * Lab3. Java. Threads
  * IO-23
  * @author Chumak Viktor
- * 27.10.2014.
  * A = SORT(B)(MB*MC)
- * MD = (MA + MB)*(MA * MC)*(MB + MÕ);
+ * MD = (MA + MB)*(MA * MC)*(MB + MÃ•);
  * A = MAX(MB*MM)*C
  */
 public class Lab3 {
